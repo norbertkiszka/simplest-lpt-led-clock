@@ -27,7 +27,11 @@
 *.i*86
 *.x86_64
 *.hex
+lpt_led
 
 # Debug files
 *.dSYM/
 *.su
+
+# Project files
+Schema.sch~
